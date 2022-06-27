@@ -1,0 +1,5 @@
+A short script I wrote to bruteforce Overthewire's Bandit Level 24. 
+
+Nothing spectacular but ive never scripted anything before. 
+
+Usage - ./script.sh | nc localhost -port- >> outputfile.txt
